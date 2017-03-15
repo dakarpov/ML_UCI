@@ -1,0 +1,33 @@
+Result for whole set
+
+Accuracy: 0.900
+()
+Confusion Matrix
+[[362   4]
+ [ 38  14]]
+()
+Classification Report
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.99      0.95       366
+        1.0       0.78      0.27      0.40        52
+
+avg / total       0.89      0.90      0.88       418
+
+
+Result for 10 set
+
+Accuracy: 0.871
+()
+Confusion Matrix
+[[353  13]
+ [ 41  11]]
+()
+Classification Report
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.96      0.93       366
+        1.0       0.46      0.21      0.29        52
+
+avg / total       0.84      0.87      0.85       418
+
